@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-terminal",
+  "name": "sn-theme-eightynine",
   "version": "1",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tashakim/snextension"
+    "url": "git://github.com/tashakim/eightynine"
   }
 }
