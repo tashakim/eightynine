@@ -12,10 +12,10 @@
   --sn-stylekit-font-size-h2: 1.2rem;
   --sn-stylekit-font-size-h1: 1.3rem;
   
-  --background-1: #000000;
-  --background-2: #242424;
+  --background-1: #f2ff00;
+  --background-2: #513c3c;
 
-  --foreground-color: #00FF40;
+  --foreground-color: #000000;
   --highlight-color: #296e3d;
   --border-color: #313131;
   --pre-color: #42eded;
@@ -85,6 +85,6 @@
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
   
   --sn-stylekit-general-border-radius: 2px;
-  --sn-stylekit-monospace-font: "Courier Polski 1941", Courier Polski 1941, Courier Polski, "Chalkduster", Chalkduster, Courier New, monospace;
+  --sn-stylekit-monospace-font: Chalkduster, Courier New, courier, monospace;
 
 }
